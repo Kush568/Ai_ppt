@@ -9,7 +9,7 @@ from ai_tools import PollinationsAI # And this one too
 
 # --- CONFIGURATION ---
 # IMPORTANT: PASTE YOUR API TOKEN HERE
-API_TOKEN = "YWKQ3aDYl7X7JaNJ"
+API_TOKEN = "AI_TOKEN"
 
 CONFIG = {
     "num_slides": 6,
